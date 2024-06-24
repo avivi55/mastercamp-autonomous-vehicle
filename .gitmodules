@@ -1,0 +1,3 @@
+[submodule "mcu-mastercamp"]
+	path = mcu-mastercamp
+	url = git@github.com:avivi55/mcu-mastercamp.git
